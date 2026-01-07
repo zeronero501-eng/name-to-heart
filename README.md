@@ -60,7 +60,8 @@ open index.html
 
 ## 🎨 Customization
 
-To change the final message, edit line 91 in `script.js`:
+To change the final message, edit line 91 in `script.js`:![1000035869](https://github.com/user-attachments/assets/bfef3c4f-c12a-4549-b97e-0b2b3785866f)
+
 
 ```javascript
 loverNameSpan.textContent = ', ' + currentName + ' ! ♥';
